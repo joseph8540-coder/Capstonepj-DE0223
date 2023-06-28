@@ -30,7 +30,4 @@ The code executes SQL queries on the COVID-19 data stored in the Access database
 
 The code generates pandas DataFrames with the query results for further analysis or visualization.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
